@@ -1,0 +1,79 @@
+.img{
+    margin-top: 5px;
+    margin-left: 5px;
+    border: 1px solid;
+}
+
+.box1{
+    border: 2px solid;
+    display: flex;
+    margin-top: 10px;
+    background-color:aliceblue;
+    height: 180px;
+}
+.box1 p{
+    margin-left: 20px;
+}
+.boxes{
+    justify-content: center;
+    gap: 20px;
+    display: flex;
+    margin-top: 10px;
+}
+.box2 span{
+    position: relative;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-left: 30px;
+    top: 20px;
+}
+.box2 p{
+    margin-top: 35px;
+    margin-left: 30px;
+}
+.box2 button{
+    border-radius: 10px;
+    margin-left: 600px;
+    margin-top: 50px;
+    font-size: 15px;
+    background-color: blueviolet;
+    color: aliceblue;
+    cursor: pointer;
+}
+.box2{
+    background-color: aliceblue;
+    height: 300px;
+    width: 700px;
+    border: 2px solid;
+}
+.box3{
+    background-color: aliceblue;
+    height: 300px;
+    width: 700px;
+    border: 2px solid;
+}
+.box3 span{
+    position: relative;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-left: 30px;
+    top: 20px;
+}
+.box3 p{
+    margin-top: 35px;
+    margin-left: 30px;
+}
+.box3 button{
+    border-radius: 10px;
+    margin-left: 600px;
+    margin-top: 50px;
+    font-size: 15px;
+    background-color: blueviolet;
+    color: aliceblue;
+    cursor: pointer;
+}
+

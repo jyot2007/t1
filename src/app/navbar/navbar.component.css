@@ -1,0 +1,17 @@
+nav{
+    background-color: gray;
+    height: 50px;
+}
+ul{
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
+li{
+    margin-top: 15px;
+}
+.text{ 
+    margin-left: 700px;
+    margin-top: 15px;
+    border: 1px solid;
+}
